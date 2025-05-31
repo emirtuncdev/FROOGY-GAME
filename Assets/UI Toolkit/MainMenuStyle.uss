@@ -1,0 +1,26 @@
+.header {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.button {
+    align-self: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-image: url("project://database/Assets/UI%20Toolkit/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-01%20141149.png?fileID=637313793637511934&guid=9fc408f5afb58d546a4e4f54430ac1cc&type=3#Ekran görüntüsü 2025-04-01 141149_0");
+    position: relative;
+}
+
+.start {
+}
+
+.exit-button {
+}
+
+.back-button {
+}
+
+.how-button {
+}
